@@ -17,3 +17,8 @@ The application will be published under an open-source license.
 | **Contributors** | **Role** |
 | ----------- | ----------- |
 |  | Product Lead & Development|
+|  | Development |
+|  | Development |
+|  | Development |
+|  | Development |
+|  | Development |
