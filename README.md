@@ -8,7 +8,7 @@ Many space station trackers are available online, but they often have limited fe
 Users would benefit from an open-source web application that tracks the space station and fully depicts the Earth, the space station orbit, and the Station itself in three dimensions.
 
 Objectives
-Your challenge is to use open-source software and information available from NASA to build a feature-rich web application (i.e., an application on a website that is accessible via a web browser—not a desktop application) that tracks the space station and provides interactive, 3D visualizations of Earth, the space station orbit, and the Station itself. Think about the interesting features that someone using your app might appreciate. You can be inspired by features available in existing apps (you may use NASA materials consistent with the provided guidance, but be careful not to copy or infringe upon the creative work of others), and feel free to include your own ideas, as well. Get creative!
+Our challenge is to use open-source software and information available from NASA to build a feature-rich web application (i.e., an application on a website that is accessible via a web browser—not a desktop application) that tracks the space station and provides interactive, 3D visualizations of Earth, the space station orbit, and the Station itself. Think about the interesting features that someone using our app might appreciate. 
 
-Your documentation should mention which NASA-produced components you utilized.
-The application should be published under an open-source license.
+Our documentation will mention the NASA-produced components we utilized.
+The application will be published under an open-source license.
