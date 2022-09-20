@@ -12,3 +12,7 @@ Our challenge is to use open-source software and information available from NASA
 
 Our documentation will mention the NASA-produced components we utilized.
 The application will be published under an open-source license.
+
+
+| **Contributors** | **Role** |
+| ----------- | ----------- |
