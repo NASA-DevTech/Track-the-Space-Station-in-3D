@@ -20,6 +20,6 @@ The application will be published under an open-source license.
 | [Adegoke Fuad Ajibola](https://github.com/ALIPHATICHYD) | Product Lead & Development|
 | [Busari Kehinde Zainab](https://www.linkedin.com/in/kehinde-busari-8a81b3249/)  | Voice Over |
 | [Hammed Ibraheem Omowumi](https://github.com/Scientist265) | Mobile Development |
-| [Akinola Shafiu]() | Mobile Development |
+| [Akinola Shafiu](https://github.com/Shaafihiy) | Mobile Development |
 | [Joseph Ofili](https://github.com/Jayyy123) | Backend Development |
 | [Bamigbade Al-Furqon](https://github.com/Adroit118) | Frontend Development |
