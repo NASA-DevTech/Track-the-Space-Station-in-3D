@@ -18,7 +18,7 @@ The application will be published under an open-source license.
 | **Contributors** | **Role** |
 | ----------- | ----------- |
 |  | Product Lead & Development|
-| Busari Kehinde Zainab  | Voice Over |
+| [Busari Kehinde Zainab](https://www.linkedin.com/in/kehinde-busari-8a81b3249/)  | Voice Over |
 | [Hammed Ibraheem Omowumi](https://github.com/Scientist265) | Mobile Development |
 |  | Mobile Development |
 |  | Development |
