@@ -22,4 +22,4 @@ The application will be published under an open-source license.
 | [Hammed Ibraheem Omowumi](https://github.com/Scientist265) | Mobile Development |
 | [Akinola Shafiu]() | Mobile Development |
 | [Joseph Ofili](https://github.com/Jayyy123) | Backend Development |
-| [Bamigbade Al-Furqon]() | Frontend Development |
+| [Bamigbade Al-Furqon](https://github.com/Adroit118) | Frontend Development |
