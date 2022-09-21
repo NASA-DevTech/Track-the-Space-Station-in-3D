@@ -21,5 +21,5 @@ The application will be published under an open-source license.
 | [Busari Kehinde Zainab](https://www.linkedin.com/in/kehinde-busari-8a81b3249/)  | Voice Over |
 | [Hammed Ibraheem Omowumi](https://github.com/Scientist265) | Mobile Development |
 |  | Mobile Development |
-|  | Development |
+| [Joseph Ofili](https://github.com/Jayyy123) | Backend Development |
 |  | Development |
